@@ -3,3 +3,11 @@ streamlit
 google-generativeai
 python-dotenv
 pathlib
+transformers
+torch
+pandas
+scikit-learn
+beautifulsoup4
+requests
+spacy
+wikipedia-api
